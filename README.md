@@ -4,9 +4,9 @@
 <!-- default badges end -->
 # DevExpress VCL — AI-powered Smart Paste Functionality
 
-This example illustrates how to use an [AI-powered Smart Paste](https://docs.devexpress.com/VCL/405528/ExpressCrossPlatformLibrary/common-features/ai-powered-extensions) command in [Grid](https://docs.devexpress.com/VCL/171093/ExpressQuantumGrid/vcl-data-grid) and [Layout](https://docs.devexpress.com/VCL/152013/ExpressLayoutControl/introduction) controls based on the oficial Embarcadero [SmartCore AI Components Pack](https://docwiki.embarcadero.com/RADStudio/Florence/en/SmartCore_AI_Component_Pack) available via the [GetIt Package Manager](https://getitnow.embarcadero.com/smartcore-ai-components). VCL developers can switch between different AI service providers.
+This example uses an [AI-powered Smart Paste command](https://docs.devexpress.com/VCL/405528/ExpressCrossPlatformLibrary/common-features/ai-powered-extensions) in [Grid](https://docs.devexpress.com/VCL/171093/ExpressQuantumGrid/vcl-data-grid) and [Layout](https://docs.devexpress.com/VCL/152013/ExpressLayoutControl/introduction) controls. Our command is based on the oficial Embarcadero [SmartCore AI Components Pack](https://docwiki.embarcadero.com/RADStudio/Florence/en/SmartCore_AI_Component_Pack) available in the [GetIt Package Manager](https://getitnow.embarcadero.com/smartcore-ai-components). VCL developers can switch between different AI service providers.
 
-> A _Smart Paste_ command analyzes clipboard content and intelligently assigns the correct values (in specific formats) to corresponding editors in a complex UI layout or grid cells if an AI service provider is registered and active.
+> A _Smart Paste_ command analyzes clipboard content and assigns correct values (in specific formats) to corresponding editors in a complex UI layout or grid cells.
 
 ## Prerequisites
 
