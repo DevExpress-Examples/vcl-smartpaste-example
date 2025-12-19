@@ -21,7 +21,7 @@ To connect this sample project to an AI service provider, you must:
 1. Open the main form in **Designer** mode.
 2. Select the OpenAI or Google Gemini provider component.
 3. Expand the `Params` node in the **Object Inspector** and paste a valid API key into the `APIKey` input box.
-4. Uncomment the `TdxSmartCoreAIChatClient.Create` call for the target AI provider:
+4. Uncomment the `TdxSmartCoreAIChatClient.Create` method call for the target AI provider:
 
 ```
 procedure TSmartCoreAIDemoMainForm.FormCreate(Sender: TObject);
@@ -54,7 +54,7 @@ end;
 ### Grid Control
 
 1. Switch to the **Grid** tab within the sample app.
-2. Select and copy any text line within the memo editor.
+2. Copy any text line from the memo editor.
 3. Move focus to the target grid record or switch to **Append** mode.
 4. Right-click the grid's pop-up menu and select the **Smart Paste** option.
 
