@@ -46,7 +46,7 @@ end;
 ### Layout Control
 
 1. Run the sample project.
-2. Click the **Copy Text** button or copy text manually (you can edit text directly within the editor box if required).
+2. Click the **Copy Text** button or copy text manually (you can edit text directly within the editor box if you wish).
 3. Click the **AI-powered Smart Paste** button to insert clipboard content into grouped editors.
 
 ![DevExpress VCL - Smart Paste Functionality in the Layout Control](/Delphi/Images/vcl-smartpaste-layout-control-example.gif)
