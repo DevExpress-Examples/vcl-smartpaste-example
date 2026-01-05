@@ -4,15 +4,15 @@
 <!-- default badges end -->
 # DevExpress VCL — AI-powered Smart Paste Functionality
 
-This example uses an [AI-powered Smart Paste command](https://docs.devexpress.com/VCL/405528/ExpressCrossPlatformLibrary/common-features/ai-powered-extensions) in [Grid](https://docs.devexpress.com/VCL/171093/ExpressQuantumGrid/vcl-data-grid) and [Layout](https://docs.devexpress.com/VCL/152013/ExpressLayoutControl/introduction) controls. Our command is based on the oficial Embarcadero [SmartCore AI Components Pack](https://docwiki.embarcadero.com/RADStudio/Florence/en/SmartCore_AI_Component_Pack) available in the [GetIt Package Manager](https://getitnow.embarcadero.com/smartcore-ai-components). VCL developers can switch between different AI service providers.
+This example adds an [AI-powered Smart Paste command](https://docs.devexpress.com/VCL/405528/ExpressCrossPlatformLibrary/common-features/ai-powered-extensions) to our [Grid](https://docs.devexpress.com/VCL/171093/ExpressQuantumGrid/vcl-data-grid) and [Layout](https://docs.devexpress.com/VCL/152013/ExpressLayoutControl/introduction) controls. Our command is based on the official Embarcadero [SmartCore AI Components Pack](https://docwiki.embarcadero.com/RADStudio/Florence/en/SmartCore_AI_Component_Pack) available in the [GetIt Package Manager](https://getitnow.embarcadero.com/smartcore-ai-components). VCL developers can switch between different AI service providers as requirements dictate.
 
-> A _Smart Paste_ command analyzes clipboard content and assigns correct values (in specific formats) to corresponding editors in a complex UI layout or grid cells.
+> A _Smart Paste_ command analyzes clipboard content and assigns correct values (in specific formats) to corresponding editors in a complex UI layout or within grid cells.
 
 ## Prerequisites
 
 * Embarcadero RAD Studio IDE 13 or newer (Community Edition is not supported)
 * [SmartCore AI Component Pack](https://docwiki.embarcadero.com/RADStudio/Florence/en/SmartCore_AI_Component_Pack) installed from [GetIt](https://getitnow.embarcadero.com/smartcore-ai-components)
-*  DevExpress VCL Components v25.2.3 or newer
+* DevExpress VCL Components v25.2.3 or newer
 
 ## Deploy and Run the Example
 
