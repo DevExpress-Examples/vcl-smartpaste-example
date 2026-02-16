@@ -68,7 +68,7 @@ end;
 * [TcxCustomGridTableView.SmartPaste](https://docs.devexpress.com/VCL/cxGridCustomTableView.TcxCustomGridTableView.SmartPaste(System.String))
 * [TdxCustomLayoutGroup.SmartPaste](https://docs.devexpress.com/VCL/dxLayoutContainer.TdxCustomLayoutGroup.SmartPaste(System.String))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=vcl-smartpaste-example&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=vcl-smartpaste-example&~~~was_helpful=no)
 
